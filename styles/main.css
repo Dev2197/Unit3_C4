@@ -1,0 +1,19 @@
+#news{
+    display: flex;
+    width: 1000px;
+    height: 300px;
+}
+#news > img{
+    width: 400px;
+    height: 266px;
+    border: 1px solid black;
+    margin-top: 16px;
+}
+#news > p:nth-child(1){
+    width: 280px;
+    border: 1px solid black;
+}
+#news > p:nth-child(2){
+    width: 300px;
+    border: 1px solid black;
+}
